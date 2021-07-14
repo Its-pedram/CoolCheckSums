@@ -1,15 +1,15 @@
 
-# CheckASum
+# CoolSumTool
 Check/Verify the checksums (MD5, SHA1, SHA256) of various files with this very cool tool!
 # Table of Content
 |Content|Click To Go|
 |--|--|
-|What's CheckASum?|---->[🔽](#What's-CheckASum)<----|
+|What's CoolSumTool?|---->[🔽](#What's-CoolSumTool)<----|
 |Why Does This Exist?|---->[🔽](#Why-Does-This-Exist)<----|
 |How Can I Use It?|---->[🔽](#How-Can-I-Use-It)<----|
 |Any Plans?|---->[🔽](#Any-Plans)<----|
-# What's CheckASum
-CheckASum is a tool that allows you to verify (& get) the hash of a file that you like.
+# What's CoolSumTool
+CoolSumTool is a tool that allows you to verify (& get) the hash of a file that you like.
 # Why Does This Exist
 So I was bored and decided to see what can I make in a few hours. I also wanted to play around with Python a little bit to use it on some other projects maybe. The main reason I made this was because I wanted a way to verify the checksums of the linux distros I download (eventhough I don't really even do that).
 # How Can I Use It
@@ -23,14 +23,14 @@ Use `-help` instead of the arguments to see the help menu in the program.
 
 Windows 10:
 
-    python .\CheckASum.py [special arguments] <FileName.Ext> <Checksum> [Type]
+    python .\CoolSumTool.py [special arguments] <FileName.Ext> <Checksum> [Type]
 Linux:
 
-    python3 CheckASum.py [special arguments] <FileName.Ext> <Checksum> [Type]
+    python3 CoolSumTool.py [special arguments] <FileName.Ext> <Checksum> [Type]
 macOS:
 
     Lol No. You see I don't use a mac on a daily basis and I never will. But it's probably the same as Linux.
- **Bonus (Windows Only (for now)): You can add the folder containing [CheckASum.py](https://github.com/Its-pedram/CheckASum/blob/main/CheckASum/CheckASum.py) and cas.bat to your system's PATH so you can use this anywhere with the `cas` command.**
+ **Bonus (Windows Only (for now)): You can add the folder containing [CoolSumTool.py](https://github.com/Its-pedram/CoolSumTool/blob/main/CoolSumTool/CoolSumTool.py) and cst.bat to your system's PATH so you can use this anywhere with the `cst` command.**
 
 **How to use the arguments:**
 
