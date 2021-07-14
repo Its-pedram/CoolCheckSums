@@ -3,15 +3,15 @@ Check/Verify the checksums (MD5, SHA1, SHA256) of various files with this very c
 # Table of Content
 |Content|Click To Go|
 |--|--|
-|What's CheckASum?|---->[🔽](#What's-CheckASum?)<----|
-|Why Does This Exist?|---->[🔽](#Why-Does-This-Exist?)<----|
-|How Can I Use It?|---->[🔽](#How-Can-I-Use-It?)<----|
-|Any Plans?|---->[🔽](#Any-Plans?)<----|
-# What's CheckASum?
+|What's CheckASum?|---->[🔽](#What's-CheckASum)<----|
+|Why Does This Exist?|---->[🔽](#Why-Does-This-Exist)<----|
+|How Can I Use It?|---->[🔽](#How-Can-I-Use-It)<----|
+|Any Plans?|---->[🔽](#Any-Plans)<----|
+# What's CheckASum
 CheckASum is a tool that allows you to verify (& get) the hash of a file that you like.
-# Why Does This Exist?
+# Why Does This Exist
 So I was bored and decided to see what can I make in a few hours. I also wanted to play around with Python a little bit to use it on some other projects maybe. The main reason I made this was because I wanted a way to verify the checksums of the linux distros I download (eventhough I don't really even do that).
-# How Can I Use It?
+# How Can I Use It
 Right Now, the program is very simple and has a very simple command syntax:
 Notes:
  - You need to have Python 3 installed.
@@ -35,7 +35,7 @@ macOS:
  - Checksum (Required): This is basically the sum you currently have and want to compare it to the actual checksum of the file.
  - Type (Optional): This is the type of the checksum that you passed in the previous argument. Supported types are: MD5, SHA1, SHA256 & Auto.
  **If you use the auto argument, the program will try to generate all the hashes above until one matches the hash you passed in argument two.**
- # Any Plans?
+ # Any Plans
  
  - [x] Make a working cli version 
  - [ ] Add a `-get` command to skip comparing the hashes and directly prompt the user with the file's hash.
