@@ -3,10 +3,10 @@ Check/Verify the checksums (MD5, SHA1, SHA256) of various files with this very c
 # Table of Content
 |Content|Click To Go|
 |--|--|
-|What's CheckASum?|---->[🔽](/#What's-CheckASum?)<----|
-|Why Does This Exist?|---->[🔽](/#Why-Does-This-Exist?)<----|
-|How Can I Use It?|---->[🔽](/#How-Can-I-Use-It?)<----|
-|Any Plans?|---->[🔽](/#Any-Plans?)<----|
+|What's CheckASum?|---->[🔽](#What's-CheckASum?)<----|
+|Why Does This Exist?|---->[🔽](#Why-Does-This-Exist?)<----|
+|How Can I Use It?|---->[🔽](#How-Can-I-Use-It?)<----|
+|Any Plans?|---->[🔽](#Any-Plans?)<----|
 # What's CheckASum?
 CheckASum is a tool that allows you to verify (& get) the hash of a file that you like.
 # Why Does This Exist?
