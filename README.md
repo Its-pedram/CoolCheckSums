@@ -30,7 +30,8 @@ Linux:
 macOS:
 
     Lol No. You see I don't use a mac on a daily basis and I never will. But it's probably the same as Linux.
- **Bonus: You can add the folder containing [CheckASum.py](https://github.com/Its-pedram/CheckASum/blob/main/CheckASum/CheckASum.py) and cas.bat to your system's PATH so you can use this anywhere with the `cas` command.**
+ **Bonus (Windows Only (for now)): You can add the folder containing [CheckASum.py](https://github.com/Its-pedram/CheckASum/blob/main/CheckASum/CheckASum.py) and cas.bat to your system's PATH so you can use this anywhere with the `cas` command.**
+
 **How to use the arguments:**
 
  - FileName (Required): Just simply pass the file name or the file path.
