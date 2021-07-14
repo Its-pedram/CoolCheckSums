@@ -29,7 +29,7 @@ Linux:
 macOS:
 
     Lol No. You see I don't use a mac on a daily basis and I never will. But it's probably the same as Linux.
- **Bonus (Windows Only (for now)): You can add the folder containing [SnekiCheckSums.py](https://github.com/Its-pedram/SnekiCheckSums/blob/main/SnekiCheckSums/SnekiCheckSums.py) and cst.bat to your system's PATH so you can use this anywhere with the `cst` command.**
+ **Bonus (Windows Only (for now)): You can add the folder containing [SnekiCheckSums.py](https://github.com/Its-pedram/SnekiCheckSums/blob/main/SnekiCheckSums/SnekiCheckSums.py) and scs.bat to your system's PATH so you can use this anywhere with the `scs` command.**
 
 **How to use the arguments:**
 
