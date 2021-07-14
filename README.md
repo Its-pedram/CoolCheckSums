@@ -26,7 +26,7 @@ Windows 10:
     python .\CheckASum.py <FileName.Ext> <Checksum> [Type]
 Linux:
 
-    python3 .\CheckASum.py <FileName.Ext> <Checksum> [Type]
+    python3 CheckASum.py <FileName.Ext> <Checksum> [Type]
 macOS:
 
     Lol No. You see I don't use a mac on a daily basis and I never will. But it's probably the same as Linux.
