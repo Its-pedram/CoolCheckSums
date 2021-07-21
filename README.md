@@ -1,14 +1,14 @@
-# SnekiCheckSums
+# CoolCheckSums
 Check/Verify the checksums (MD5, SHA1, SHA256) of various files with this very cool tool!
 # Table of Content
 |Content|Click To Go|
 |--|--|
-|What's SnekiCheckSums?|---->[🔽](#What's-SnekiCheckSums)<----|
+|What's CoolCheckSums?|---->[🔽](#What's-CoolCheckSums)<----|
 |Why Does This Exist?|---->[🔽](#Why-Does-This-Exist)<----|
 |How Can I Use It?|---->[🔽](#How-Can-I-Use-It)<----|
 |Any Plans?|---->[🔽](#Any-Plans)<----|
-# What's SnekiCheckSums
-SnekiCheckSums is a tool that allows you to verify (& get) the hash of a file that you like.
+# What's CoolCheckSums
+CoolCheckSums is a tool that allows you to verify (& get) the hash of a file that you like.
 # Why Does This Exist
 So I was bored and decided to see what can I make in a few hours. I also wanted to play around with Python a little bit to use it on some other projects maybe. The main reason I made this was because I wanted a way to verify the checksums of the linux distros I download (eventhough I don't really even do that).
 # How Can I Use It
@@ -22,14 +22,14 @@ Use `-help` instead of the arguments to see the help menu in the program.
 
 Windows 10:
 
-    python .\SnekiCheckSums.py [special arguments] <FileName.Ext> <Checksum> [Type]
+    python .\CoolCheckSums.py [special arguments] <FileName.Ext> <Checksum> [Type]
 Linux:
 
-    python3 SnekiCheckSums.py [special arguments] <FileName.Ext> <Checksum> [Type]
+    python3 CoolCheckSums.py [special arguments] <FileName.Ext> <Checksum> [Type]
 macOS:
 
     Lol No. You see I don't use a mac on a daily basis and I never will. But it's probably the same as Linux.
- **Bonus (Windows Only (for now)): You can add the folder containing [SnekiCheckSums.py](https://github.com/Its-pedram/SnekiCheckSums/blob/main/SnekiCheckSums/SnekiCheckSums.py) and scs.bat to your system's PATH so you can use this anywhere with the `scs` command.**
+ **Bonus (Windows Only (for now)): You can add the folder containing [CoolCheckSums.py](https://github.com/Its-pedram/CoolCheckSums/blob/main/CoolCheckSums/CoolCheckSums.py) and scs.bat to your system's PATH so you can use this anywhere with the `scs` command.**
 
 **How to use the arguments:**
 
