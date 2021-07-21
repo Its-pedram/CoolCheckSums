@@ -3,11 +3,11 @@ Check/Verify the checksums (MD5, SHA1, SHA256) of various files with this very c
 # Table of Content
 |Content|Click To Go|
 |--|--|
-|What's CoolCheckSums?|---->[🔽](#What's-CoolCheckSums)<----|
+|What's CoolCheckSums?|---->[🔽](#What-is-CoolCheckSums)<----|
 |Why Does This Exist?|---->[🔽](#Why-Does-This-Exist)<----|
 |How Can I Use It?|---->[🔽](#How-Can-I-Use-It)<----|
 |Any Plans?|---->[🔽](#Any-Plans)<----|
-# What's CoolCheckSums
+# What is CoolCheckSums
 CoolCheckSums is a tool that allows you to verify (& get) the hash of a file that you like.
 # Why Does This Exist
 So I was bored and decided to see what can I make in a few hours. I also wanted to play around with Python a little bit to use it on some other projects maybe. The main reason I made this was because I wanted a way to verify the checksums of the linux distros I download (eventhough I don't really even do that).
