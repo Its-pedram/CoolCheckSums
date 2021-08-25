@@ -40,7 +40,7 @@ Example For The `-get` & `-g` arguments:
 ***macOS***:
 
     Lol No. You see I don't use a mac on a daily basis and I never will. But it's probably the same as Linux.
- **Bonus (Windows Only (for now)): You can add the folder containing [ccs.py](https://github.com/Its-pedram/CoolCheckSums/blob/main/CoolCheckSums/CoolCheckSums.py) and [scs.bat](https://github.com/Its-pedram/CoolCheckSums/blob/main/CoolCheckSums/ccs.bat) to your system's PATH so you can use this anywhere with the `ccs` command.**
+ **Bonus (Windows Only (for now)): You can add the folder containing [ccs.py](https://github.com/Its-pedram/CoolCheckSums/blob/main/CoolCheckSums/CoolCheckSums.py) and [ccs.bat](https://github.com/Its-pedram/CoolCheckSums/blob/main/CoolCheckSums/ccs.bat) to your system's PATH so you can use this anywhere with the `ccs` command.**
 
 **Description Of Each Argument:**
 
