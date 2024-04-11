@@ -22,6 +22,7 @@ Notes:
 Use `-help` instead of the arguments to see the help menu in the program.
 
 ***Windows:***
+
 Example For The `-compare` & `-c` arguments:
 
     python .\ccs.py -c <FileName.Ext> <Checksum> [Type]
@@ -30,6 +31,7 @@ Example For The `-get` & `-g` arguments:
     python .\ccs.py -g <FileName.Ext> [Type]
 
 ***Linux***:
+
 Example For The `-compare` & `-c` arguments:
 
     python3 ccs.py -compare <FileName.Ext> <Checksum> [Type]
