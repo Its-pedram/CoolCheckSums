@@ -21,7 +21,7 @@ Notes:
 
 Use `-help` instead of the arguments to see the help menu in the program.
 
-***Windows 10:***
+***Windows:***
 Example For The `-compare` & `-c` arguments:
 
     python .\ccs.py -c <FileName.Ext> <Checksum> [Type]
@@ -39,7 +39,12 @@ Example For The `-get` & `-g` arguments:
 
 ***macOS***:
 
-    Lol No. You see I don't use a mac on a daily basis and I never will. But it's probably the same as Linux.
+Example For The `-compare` & `-c` arguments:
+
+    python3 ccs.py -compare <FileName.Ext> <Checksum> [Type]
+Example For The `-get` & `-g` arguments:
+
+    python3 ccs.py -get <FileName.Ext> [Type]
  **Bonus (Windows Only (for now)): You can add the folder containing [ccs.py](https://github.com/Its-pedram/CoolCheckSums/blob/main/CoolCheckSums/CoolCheckSums.py) and [ccs.bat](https://github.com/Its-pedram/CoolCheckSums/blob/main/CoolCheckSums/ccs.bat) to your system's PATH so you can use this anywhere with the `ccs` command.**
 
 **Description Of Each Argument:**
